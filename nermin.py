@@ -11,7 +11,7 @@
 from komekci.aykhan import Nermin
 import base64
 from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, sesizKOLGE, ban, emoji1, emoji2, fed, niye, ne, hay, mal, can, balam, xos, hara, gel, gordum
-from mesajlar.bot import yeni_user, start, info
+from mesajlar.bot import yeni_user, start, info, oyun, zer, bol, ftop, btop, carx, ox
 from telethon import events, Button
 import random
 
@@ -21,16 +21,55 @@ import random
 async def handler(event):
     if event.user_joined:
         await event.reply(f"{random.choice(yeni_user)}")
-
+#start
+        
 nermin_start = b"\x42\x6F\x74\x20\x42\x61\xC5\x9F\x6C\x61\x64\xC4\xB1\x6C\x64\xC4\xB1\x2E\x2E\x2E\x0A\x4F\x77\x6E\x65\x72\x3A\x20\x61\x79\x6B\x68\x61\x6E\x5F\x73\x20\x7C\x20\x61\x79\x6B\x68\x61\x6E\x30\x32\x36\x0A\x74\x2E\x6D\x65\x2F\x52\x6F\x42\x6F\x74\x6C\x61\x72\x69\x6D\x54\x67"
 @Nermin.on(events.NewMessage(pattern='(?i)/start+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(start)}")
   
+#info
+
+@Nermin.on(events.NewMessage(pattern='(?i)/xaosinfo+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(info)}")
+
+ #oyunlar   
+    
+@Nermin.on(events.NewMessage(pattern='(?i)/oyunlar+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(oyun)}")
+ 
+
+@Nermin.on(events.NewMessage(pattern='(?i)/zer+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(zer)}")
+ 
+
+@Nermin.on(events.NewMessage(pattern='(?i)/ox+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(ox)}")
+ 
+@Nermin.on(events.NewMessage(pattern='(?i)/carx+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(carx)}")
+ 
+@Nermin.on(events.NewMessage(pattern='(?i)/ftop+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(ftop)}")
+ 
+@Nermin.on(events.NewMessage(pattern='(?i)/btop+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(btop)}")
+ 
 @Nermin.on(events.NewMessage(pattern='(?i)/xaosinfo+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(info)}")
  
+
+
+
+
 @Nermin.on(events.NewMessage(pattern='(?i)salam+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(salam)}")
