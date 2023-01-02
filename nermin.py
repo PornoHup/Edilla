@@ -45,7 +45,6 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(zer)}")
  
-
 @Nermin.on(events.NewMessage(pattern='(?i)/ox+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(ox)}")
@@ -62,9 +61,9 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(btop)}")
  
-@Nermin.on(events.NewMessage(pattern='(?i)/xaosinfo+'))
+@Nermin.on(events.NewMessage(pattern='(?i)/boling+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
-    await event.reply(f"{random.choice(info)}")
+    await event.reply(f"{random.choice(bol)}")
  
 
 
