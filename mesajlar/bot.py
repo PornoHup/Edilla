@@ -25,3 +25,24 @@ oyun = (
 "XAOS CHAT BOT un daxilindəki oyunlar 🎮\n\n/zer - ZƏR ATAR 🎲\n/btop - BASKETBOL TOPU ATAR 🏀\n/ftop - FUTBOL TOPU ATAR ⚽️\n/ox - OX ATAR 🎯\n/boling - BOLİNG TOPU ATAR 🎳\n/carx - TƏSADÜFİ ÇARX ÇEVİRƏR 🎰"
 )
   
+
+zer = (
+"🎲"
+)
+btop = (
+"🏀"
+)
+ftop = (
+"⚽️"
+)
+ox = (
+"🎯"
+)
+carx = ( 
+"🎰"
+)
+bol = (
+"🎳"
+)
+
+
