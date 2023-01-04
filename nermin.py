@@ -10,7 +10,7 @@
 
 from komekci.aykhan import Nermin
 import base64
-from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, sesizKOLGE, ban, emoji1, emoji2, fed, niye, ne, hay, mal, can, balam, xos, hara, gel, gordum
+from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, sesizKOLGE, ban, emoji1, emoji2, fed, niye, ne, hay, mal, can, balam, xos, hara, gel, gordum, taım
 from mesajlar.bot import yeni_user, start, info, oyun, zer, bol, ftop, btop, carx, ox
 from telethon import events, Button
 import random
@@ -203,8 +203,15 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(gordum)}")
          
+@Nermin.on(events.NewMessage(pattern='(?i)tema+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(taim)}")
 
+        
+        
+        
+        
 nermin_run = nermin_start.decode("utf8")
-print(">> Chat bot işləyir ♿ <<")
+print(">> Chat bot uğurla işləyir ♿ <<")
 print(f"{nermin_run}")
 Nermin.run_until_disconnected()
