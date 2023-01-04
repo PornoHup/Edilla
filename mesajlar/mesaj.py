@@ -237,7 +237,7 @@ taım = (
 "https://t.me/addtheme/bpcrFtP4qYu0DdnJ",
 "https://t.me/addtheme/aUFKCX7AQ3aQpDjp",
 "https://t.me/addtheme/L7HVQjC4UUyOfL9y",
-"https://t.me/addtheme/Qd4eBWTIOH4Ai3Zv,
+"https://t.me/addtheme/Qd4eBWTIOH4Ai3Zv",
 "https://t.me/addtheme/NightWolf",
 "https://t.me/addtheme/GreenBlack",
 "https://t.me/addtheme/TvldPzYmpG8LqkY3",
