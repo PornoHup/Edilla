@@ -205,7 +205,7 @@ async def yeni_mesaj(event: events.NewMessage.Event):
          
 @Nermin.on(events.NewMessage(pattern='(?i)tema+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
-    await event.reply(f"{random.choice(taim)}")
+    await event.reply(f"{random.choice(taım)}")
 
         
         
