@@ -30,7 +30,7 @@ async def yeni_mesaj(event: events.NewMessage.Event):
   
 #info
 
-@Nermin.on(events.NewMessage(pattern='(?i)/xaosinfo+'))
+@Nermin.on(events.NewMessage(pattern='(?i)/info+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(info)}")
 
@@ -95,26 +95,26 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(geldim)}")
 
-@Nermin.on(events.NewMessage(pattern='(?i)@sesizKOLGE+'))
-@Nermin.on(events.NewMessage(pattern='(?i)@MR_K4BUS_13+'))
-@Nermin.on(events.NewMessage(pattern='(?i)@Modelhs+'))
-@Nermin.on(events.NewMessage(pattern='(?i)@sanane_lann+'))
-@Nermin.on(events.NewMessage(pattern='(?i)@adsizm1_2+'))
-@Nermin.on(events.NewMessage(pattern='(?i)@NaraHva+'))
-@Nermin.on(events.NewMessage(pattern='(?i)@DAGLI_R_17+'))
-@Nermin.on(events.NewMessage(pattern='(?i)@lezgididee+'))
-@Nermin.on(events.NewMessage(pattern='(?i)@mmmdtly+'))
+@Nermin.on(events.NewMessage(pattern='(?i)@Thagiyev+'))
+@Nermin.on(events.NewMessage(pattern='(?i)@mmzd_13+'))
+@Nermin.on(events.NewMessage(pattern='(?i)@Hashimova_1+'))
+@Nermin.on(events.NewMessage(pattern='(?i)@Mmmmdli+'))
+@Nermin.on(events.NewMessage(pattern='(?i)@aghayefffa+'))
+@Nermin.on(events.NewMessage(pattern='(?i)@Sonnqruz+'))
+@Nermin.on(events.NewMessage(pattern='(?i)@YerazzAbii+'))
+@Nermin.on(events.NewMessage(pattern='(?i)@h3senovha+'))
+@Nermin.on(events.NewMessage(pattern='(?i)@+'))
 @Nermin.on(events.NewMessage(pattern='(?i)@Cavkaa+'))
-@Nermin.on(events.NewMessage(pattern='(?i)KOLGE+'))
-@Nermin.on(events.NewMessage(pattern='(?i)KOLGƏ+'))
-@Nermin.on(events.NewMessage(pattern='(?i)kabus+'))
-@Nermin.on(events.NewMessage(pattern='(?i)niko+'))
-@Nermin.on(events.NewMessage(pattern='(?i)nara+'))
-@Nermin.on(events.NewMessage(pattern='(?i)@Geldim000+'))
-@Nermin.on(events.NewMessage(pattern='(?i)Emin+'))
-@Nermin.on(events.NewMessage(pattern='(?i)emın+'))
+@Nermin.on(events.NewMessage(pattern='(?i)riyad+'))
+@Nermin.on(events.NewMessage(pattern='(?i)yeraz+'))
+@Nermin.on(events.NewMessage(pattern='(?i)reksane+'))
+@Nermin.on(events.NewMessage(pattern='(?i)fatya+'))
+@Nermin.on(events.NewMessage(pattern='(?i)nezrin+'))
+@Nermin.on(events.NewMessage(pattern='(?i)@thagiyev+'))
+@Nermin.on(events.NewMessage(pattern='(?i)sura+'))
+@Nermin.on(events.NewMessage(pattern='(?i)maqa+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
-    await event.reply(f"{random.choice(sesizKOLGE)}")
+    await event.reply(f"{random.choice(thagiyev)}")
 
 @Nermin.on(events.NewMessage(pattern='(?i)ban+'))
 @Nermin.on(events.NewMessage(pattern='(?i)kick+'))
