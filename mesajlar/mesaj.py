@@ -60,7 +60,7 @@ geldim = (
 "Qırmızı Xalçada Sərəkmi?",  
 )
 
-sesizKOLGE = (
+riyad = (
 "Haycannn Aşkım ❤",
 "Haycannn, Quzu kəsime sənə 🙊",
 "Bəliii 🫶",
@@ -82,6 +82,85 @@ sesizKOLGE = (
 "what? 🙄", 
 "Davaaay Nömrənii Att Kişi Balaa 👨‍💻", 
 "Sən Öl Səni Yolacam aaaa",
+)
+
+yeraz = (
+"Haycannn Aşkım ❤",
+"Haycannn, Quzu kəsime sənə 🙊",
+"Bəliii 🫶",
+"Nə gözəl deyirsəne, birdə de",
+"O Mənim Ürəyimdi ❤",
+"Na Var Aaa, Nə İsdiyirsən? 😑",
+"Azzzaarrr 😬😬",
+"Buyur 😝",
+"🙄",  
+"🥱",  
+"❤", 
+"Na Var Aaa, Nəyə Tağ Edirsənn?? 🙄",  
+"Aəəəə Dincəəldəəəə 😒",  
+"😒",  
+"Qrupun Gözüüü 😝",  
+"Adəə İmkan Ver Yataqdaa 🥱🥱",  
+"Əlini Farahat Qoyda Alaa 😒",  
+"Dur Cıx Çölə",  
+"what? 🙄", 
+"Qrupun Babnik Sahibi", 
+"Sən Öl Səni Yolacam aaaa",
+)
+
+reksane = (
+"Haycannn Aşkım ❤",
+"Haycannn, Quzu kəsime sənə 🙊",
+"Bəliii 🫶",
+"Nə gözəl deyirsəne, birdə de",
+"O Mənim Ürəyimdi ❤",
+"Na Var Aaa, Nə İsdiyirsən? 😑",
+"Azzzaarrr 😬😬",
+"Qrupun Sahibəsi"
+)
+
+nezrin = (
+"Haycannn Aşkım ❤",
+"Haycannn, Quzu kəsime sənə 🙊",
+"Bəliii 🫶",
+"Nə gözəl deyirsəne, birdə de",
+"O Mənim Ürəyimdi ❤",
+"Na Var Aaa, Nə İsdiyirsən? 😑",
+"Azzzaarrr 😬😬",
+"tosbik burda "
+)
+
+fatya = (
+"Haycannn Aşkım ❤",
+"Haycannn, Quzu kəsime sənə 🙊",
+"Bəliii 🫶",
+"Nə gözəl deyirsəne, birdə de",
+"O Mənim Ürəyimdi ❤",
+"Na Var Aaa, Nə İsdiyirsən? 😑",
+"Azzzaarrr 😬😬",
+"Qrupun Leydisi"
+)
+
+maqa = (
+"Haycannn canon yeym❤",
+"Haycannn, Quzu kəsime sənə 🙊",
+"Bəliii 🫶",
+"Nə gözəl deyirsəne, birdə de",
+"O Mənim Ürəyimdi ❤",
+"Na Var Aaa, Nə İsdiyirsən? 😑",
+"bezpantov maqa 😬😬",
+"ha senin goozn yeym "
+)
+
+sura = (
+"Haycannn Aşkım ❤",
+"Haycannn, Quzu kəsime sənə 🙊",
+"Bəliii 🫶",
+"Nə gözəl deyirsəne, birdə de",
+"O Mənim Ürəyimdi ❤",
+"Na Var Aaa, Nə İsdiyirsən? 😑",
+"Azzzaarrr 😬😬",
+"Rehber"
 )
 
 ban = (
@@ -107,10 +186,10 @@ emoji2 = (
 ) 
 
 fed = (
-"XAOS ❤ Di ",  
-"Yaşasın XAOS ❤",  
+"Gunes ❤ Di ",  
+"Yaşasın Gunes ❤",  
 "Salam Olsun XAOS Ailəsinə 👋", 
-"XAOS Ailəsindən Hamıya Salam ❤",  
+"Xarı BulBul Ailəsindən Hamıya Salam ❤",  
 "Buyur Nə Lazımdı? 🤔", 
 )
   
