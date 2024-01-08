@@ -14,11 +14,11 @@ yeni_user = (
 )
 
 start = (
-"👋 Salam Xoş Gördük.\n✅ Mən Gunes Rəsmi Söhbət Botuyam\nℹ Bot Barədə tam Məlumat Almaq Üçün /info  Yazın",
+"👋 Salam Xoş Gördük.\n✅ Mən Nəzrin Rəsmi Söhbət Botuyam\nℹ Bot Barədə tam Məlumat Almaq Üçün /info  Yazın",
 )
 
 info = (
-"☑ Mən Nəzrin Rəsmi Söhbət Botuyam\n\nℹ Botumuz Haqda Qısa Məlumat\n⚡ Gunes Sıradan Söhbət Və Avto Cavablayıcı Botudur. Bu Botun Əsas Özəlliyi Qruplarda Mesaj Sayın Çoxaltmaq , Vaxdınızı Əyləncəli Keçirmək Dir. Nəzrin Botu qruplarınlza Alaraq Vaxdınızı Əyləncəli Və Səmərəli Keçirə Bilərsiz.\n\n\n\n➕[❰ QRUPA ƏLAVƏ ET ❱➕](https://t.me/NezrinChatRobot?startgroup=true)\n\n\n\n**👨‍💻 OWNER 🇬🇪** [Thagiyev Riyad](https://t.me/Thagiyev)",
+"☑ Mən Nəzrin Rəsmi Söhbət Botuyam\n\nℹ Botumuz Haqda Qısa Məlumat\n⚡ Nəzrin Sıradan Söhbət Və Avto Cavablayıcı Botudur. Bu Botun Əsas Özəlliyi Qruplarda Mesaj Sayın Çoxaltmaq , Vaxdınızı Əyləncəli Keçirmək Dir. Nəzrin Botu qruplarınlza Alaraq Vaxdınızı Əyləncəli Və Səmərəli Keçirə Bilərsiz.\n\n\n\n➕[❰ QRUPA ƏLAVƏ ET ❱➕](https://t.me/@NezrinChatBot?startgroup=true)\n\n\n\n**👨‍💻 OWNER 🇬🇪** [Thagiyev Riyad](https://t.me/Thagiyev)",
 )
 
 oyun = (
