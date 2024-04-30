@@ -8,137 +8,136 @@
 # GitHub: aykhan026
 
 salam = (
-"Salam",
-"Salam Kişi",
-"Salam Ay Xanım",
-"Salam Balam",
-"Salamdaa",
-"Uşş balama salamm",
-"Salam Cənab 🫶",
-"Salam Nəəfəəəss",
+"Merhaba"
+"Merhaba Adam",
+"Merhaba Bayan Moon",
+"Merhaba Bebek",
+"Merhabaa",
+"Hey bebeğim merhaba"
+"Merhaba Bey 🫶",
+"Merhaba Nefess",
 )
 
 necesen = (
-"Həmşəki Kimi! Sən?",
-"Saol",
-"Həkimsən ?",
-"Ə belədana 😂",
-"What",
-"İyyim aşkım sen ?",
-"yaxşı olmağa çalışıram",
-"Mən başımı buraxe sən necəsən 😂",
+"Herkes gibi! Sen peki?",
+"Hoşçakal",
+"Doktor musunuz?",
+"Ah yani 😂",
+"Ne",
+"Sen benim aşkım mısın?"
+"iyi olmaya çalışıyorum"
+"Başımı bıraktım, nasılsın 😂"
 )
 
 
 
 sagol = (
-"Salam Sağol",
-"Hara gedsən",
-"Yatıram demə🥲",
-"Sağolunnn yenə gözləyəriyy🙈",
-"Uşş balam Sağol",
-"Sağol canım benim 🫶",
-"Sağol Kişi 🔥",
-"Sağo Ay Xanım",
+"Merhaba Hoşça kal",
+"Nereye gidersen",
+"Uyuyorum deme🥲",
+"Teşekkür ederim, tekrar bekleyeceğim🙈",
+"Vay be bebeğim, hoşça kal",
+"Merhaba canım 🫶",
+"Merhaba Adamım 🔥",
+"Merhaba Bayan Moon",
 )
 
 
 
 getdim = (
-"Hara?",
-"Cəhənəmə get",
-"Get Heç Gəlmə",
-"Neynim? Getdə 😒",  
-"Yaxşı Yol", 
-"Dalıncada Su Atımı?",
+"Nereye?",
+"Cehenneme git",
+"Git Asla Gelme",
+"Neyim ben? Defol git 😒",
+"İyi bir yol",
+"Dalinca'da Su Atı mı?",  
 )
 
 geldim = (
-"Xoş Gəldin ❤️",
-"Xoş Gəldin Nəəəfəəssss",  
-"Neynim?",  
-"Qırmızı Xalçada Sərəkmi?",  
+"Hoş geldiniz ❤️",
+"Hoş geldiniz Nefessss",
+"Ben neyim?"
+"Serek kırmızı halıda mı?",  
 )
 
 riyad = (
-"Haycannn Aşkım ❤",
-"Haycannn, Quzu kəsime sənə 🙊",
-"Bəliii 🫶",
-"Nə gözəl deyirsəne, birdə de",
-"O Mənim Ürəyimdi ❤",
-"Na Var Aaa, Nə İsdiyirsən? 😑",
+"Haycannn aşkım ❤",
+"Haycannn, senin için kuzu kesme 🙊",
+"Evet 🫶",
+"Ne söyleyeceksen hemen söyle"
+"O Benim Kalbimdi ❤",
+"Ne var Aaa, ne istiyorsun? 😑",
 "Azzzaarrr 😬😬",
-"Buyur 😝",
+"Hadi 😝",
 "🙄",  
 "🥱",  
 "❤", 
-"Na Var Aaa, Nəyə Tağ Edirsənn?? 🙄",  
-"Aəəəə Dincəəldəəəə 😒",  
-"😒",  
-"Qrupun Gözüüü 😝",  
-"Adəə İmkan Ver Yataqdaa 🥱🥱",  
-"Əlini Farahat Qoyda Alaa 😒",  
-"Dur Cıx Çölə",  
-"what? 🙄", 
-"Davaaay Nömrənii Att Kişi Balaa 👨‍💻", 
-"Sən Öl Səni Yolacam aaaa",
+"Ne var, neden bahsediyorsun?? 🙄",
+"😒",
+"Grubun gözü 😝",
+"Bana yatmam için bir şans ver 🥱🥱",
+"Elini Farahat Alaa'ya koy 😒",
+"Durmak"
+"ne? 🙄",
 )
 
 yeraz = (
-"Haycannn Aşkım ❤",
-"Haycannn, Quzu kəsime sənə 🙊",
-"Bəliii 🫶",
-"Nə gözəl deyirsəne, birdə de",
-"O Mənim Ürəyimdi ❤",
-"Na Var Aaa, Nə İsdiyirsən? 😑",
+"Haycannn aşkım ❤",
+"Haycannn, senin için kuzu kesme 🙊",
+"Evet 🫶",
+"Ne söyleyeceksen hemen söyle"
+"O Benim Kalbimdi ❤",
+"Ne var Aaa, ne istiyorsun? 😑",
 "Azzzaarrr 😬😬",
-"Buyur 😝",
+"Hadi 😝",
 "🙄",  
 "🥱",  
 "❤", 
-"Na Var Aaa, Nəyə Tağ Edirsənn?? 🙄",  
-"Aəəəə Dincəəldəəəə 😒",  
+"Ne var, neden bahsediyorsun?? 🙄",
+"😒",
+"Grubun gözü 😝",
+"Bana yatmam için bir şans ver 🥱🥱",
+"Elini Farahat Alaa'ya koy 😒",
+"Durmak"
+"ne? 🙄",  
 "😒",  
-"Qrupun Gözüüü 😝",  
-"Adəə İmkan Ver Yataqdaa 🥱🥱",  
-"Əlini Farahat Qoyda Alaa 😒",  
-"Dur Cıx Çölə",  
-"what? 🙄", 
-"Qrupun Babnik Sahibi", 
-"Sən Öl Səni Yolacam aaaa",
+"Grubun gözü 😝",
+"Bana yatmam için bir şans ver 🥱🥱",
+"Grubun Babnik Sahibi",
+"Sen ölürsün, seni alıp götüreceğim",
 )
 
 reksane = (
-"Haycannn Aşkım ❤",
-"Haycannn, Quzu kəsime sənə 🙊",
-"Bəliii 🫶",
-"Nə gözəl deyirsəne, birdə de",
-"O Mənim Ürəyimdi ❤",
-"Na Var Aaa, Nə İsdiyirsən? 😑",
+"Haycannn aşkım ❤",
+"Haycannn, senin için kuzu kesicem 🙊",
+"Evet 🫶",
+"Ne söyleyeceksen hemen söyle"
+"O Benim Kalbimdi ❤",
+"Ne var Aaa, ne istiyorsun? 😑",
 "Azzzaarrr 😬😬",
-"Qrupun Sahibəsi"
+"Grup Sahibesi",
 )
 
 nezrin = (
-"Haycannn Aşkım ❤",
-"Haycannn, Quzu kəsime sənə 🙊",
-"Bəliii 🫶",
-"Nə gözəl deyirsəne, birdə de",
-"O Mənim Ürəyimdi ❤",
-"Na Var Aaa, Nə İsdiyirsən? 😑",
+"Haycannn aşkım ❤",
+"Haycannn, senin için kuzu keserim 🙊",
+"Evet 🫶",
+"Ne söyleyeceksen hemen söyle"
+"O Benim Kalbimdi ❤",
+"Ne var Aaa, ne istiyorsun? 😑",
 "Azzzaarrr 😬😬",
-"tosbik burda "
+"tosbik burada",
 )
 
 fatya = (
-"Haycannn Aşkım ❤",
-"Haycannn, Quzu kəsime sənə 🙊",
-"Bəliii 🫶",
-"Nə gözəl deyirsəne, birdə de",
-"O Mənim Ürəyimdi ❤",
-"Na Var Aaa, Nə İsdiyirsən? 😑",
+"Haycannn aşkım ❤",
+"Haycannn, senin için kuzu keseyim 🙊",
+"Evet 🫶",
+"Ne söyleyeceksen hemen söyle"
+"O Benim Kalbimdi ❤",
+"Ne var Aaa, ne istiyorsun? 😑",
 "Azzzaarrr 😬😬",
-"Qrupun Leydisi"
+"Grubun Hanımı",
 )
 
 maqa = (
@@ -149,165 +148,151 @@ maqa = (
 "O Mənim Ürəyimdi ❤",
 "Na Var Aaa, Nə İsdiyirsən? 😑",
 "bezpantov maqa 😬😬",
-"ha senin goozn yeym "
+"ha senin gözünü yiyim ",
 )
 
 sura = (
-"Haycannn Aşkım ❤",
-"Haycannn, Quzu kəsime sənə 🙊",
-"Bəliii 🫶",
-"Nə gözəl deyirsəne, birdə de",
-"O Mənim Ürəyimdi ❤",
-"Na Var Aaa, Nə İsdiyirsən? 😑",
+"Haycannn aşkım ❤",
+"Haycannn, senin için kuzu keseyim 🙊",
+"Evet 🫶",
+"Ne söyleyeceksen hemen söyle"
+"O Benim Kalbimdi ❤",
+"Ne var Aaa, ne istiyorsun? 😑",
 "Azzzaarrr 😬😬",
-"Rehber"
+"Rehber",
 )
 
 ban = (
-"Vəhşii",
-"Həri Vəhşii",
-"Vəhşi Panteramm kimə ban atdın",
-"Havada ban kokusu var",
+"Vahşi",
+"Hepsi Vahşi",
+"Vahşi Panter, kimi yasakladın?"
+"Havada yasak kokusu var",
 )
 
 emoji1 = (
-"Na Var A Yuxarda? Nəyə Baxırsan? 🙄",
-"Ba Ba Gözlərin Gənə Qalxızdl Boş Kəlləsinə 😒",
-"Gözlərin Çixmasın Yazıqsan , Nəyə Baxırsan? 😶",
+"Orada ne var? Neye bakıyorsun? 🙄",
+"Ba Ba Gözlerin Tiki Boş Kafatasına Kadar Gidiyor 😒",
+"Gözlerini devirme, zavallısın, neye bakıyorsun? 😶",
 )
 
 emoji2 = (
-"Na Var Aa ? Nəyə Gülürsən? 🙄 ",  
-"Az Gül Yekə Qizsan 🥱", 
-"Hırıldama 😑",
-"Xonça Baş Az gül 😝", 
-"Quzu Kəsərəm O Gülüşünə 😄",
-"Gülüşə Baaa Elə Bil Dağ Mışıdı 😅", 
+"Ne var? Neye gülüyorsun? 🙄",
+"Az Gül Büyük Kız oldun artık 🥱",
+"Hırlama 😑",
+"Küçük bir gülümseme 😝",
+"Gülüşü İçin Kuzu Kesiyorum 😄",
+"Dağ Faresi gibi gül 😅", 
 ) 
 
 fed = (
-"Gunes ❤ Di ",  
-"Yaşasın Gunes ❤",  
-"Salam Olsun XAOS Ailəsinə 👋", 
-"Xarı BulBul Ailəsindən Hamıya Salam ❤",  
-"Buyur Nə Lazımdı? 🤔", 
+"Güneş ❤ Di",
+"Çok yaşa Güneş ❤",
+"Neye ihtiyacın vardı? 🤔", 
 )
   
 niye = (
-"Maraqlı Olsun deyə 🥱",
-"Elə Elə 🪓",
-"Azzar Niyəə 😜",
-"Niyəsidə Var Əəə Xonça Baş 😂",
-"Uşşş 😍😍",
-"De Sən Ölll 🙄", 
-"Davay Fly ✈",
-"Saçlarını Yolanda Biləsən 🥹",
+"İlginç olmak için 🥱",
+"Öyleyse 🪓",
+"Sanane Neden 😜",
+"Şşşt 😍😍",
+"De Sen Allll🙄",
+"Yürü git ✈",
+"Saçını Çektiğini Bilirsin 🥹",
 )
   
   
 ne = (
-"Nənəə 😂",
-"Azzarr Nəə 🙄",
-"Deyirəm Salam 🤦",
-"Elə Eləə 😐",
-"Qinamiram Eyy , Qandığın Qırafa Odu 😂",
-"Deyirəmm Ki Lavaşş Var? 🤦",
-"Haycann 🥲",
-"Ağzına Pişmiş Gənə 🤣",
-"Elə ondan 🪓",
-"Deyirəm Evlisən? 😊",
+"Büyükanne 😂",
+"Azzarr Ne 🙄",
+"Merhaba diyorum 🤦",
+"Öyleyse 😐",
+"Lavaşş var mı diyorum? 🤦",
+"Haycann🥲",
+"Ağzınızda kene pişti 🤣",
+"Yani ondan 🪓",
 )  
   
   
 hay = (
-"Nəəəəə ? 🙄",
-"Azzaarr Hayyy 🤦",
-"Qaraazaaarr 😂",
-"Deyrəm Nətərsən? 🙄",
-"98 İn Çeşqası Var Bez Krasqa? 🤦",
-"Bəlkə 50 Cə Qəpik Pulun Ola? 😂",
+"Ne? 🙄",
+"Azzaarr Heyyy🤦",
+"Sen kimsin? 🙄",
+"Belki 50 kuruşun vardır? 😂",
 )  
   
   
 mal = (
-"What? 🙄",
-"Sənsən 😝",
-"Məndə Chat Bot 🥲",
-"Şad Oldum 😊",
-"Səndən Öyrənmişəmdə 🥹",
-"Haycann Aşkımm 😍",
-"Hə Balamm ☺️",
-"Mal mənə Deyenin Qaynenesidi Bildin Əəə??? ",
+"Sen 😝",
+"Bir Sohbet Botum ben 🥲",
+"Sevindim 😊",
+"Senden Öğrendiklerim 🥹",
+"Merhaba aşkım 😍",
+"Evet Balam ☺️",
+"Mal'ın Deye'nin kayınvalidesi olduğunu biliyor muydun???",
 )  
   
   
 can = (
 "Azzzaarr 🥹",
-"Canın Baaal 😍",
+"Canin Baaal 😍",
 "Haycan Aşkım 🥺",
-"Nə Gözəl Deyirsən 🥲 Birdə Dedə 🥹",
+"Ne güzel söylüyorsun 🥲 Hemen söyle 🥹",
 "Haycan Balam 😍",
-"Nə Var Aaa?? 🙄",
-"Tay Az Qizdara Pqd Xod Elə Əə.🪓",
-"Canın Cənnət Necəsən? 🙄",
-"Dur Çıx Çölə Gözüm Səni Görməsin 😁",
-"What ? 🙄",
-"Dediyini Başa Düşmədim Nə Deyrsən əəə?? 😡",
+"Naber?? 🙄",
+"Canım, nasılsın? 🙄",
+"Dur, dışarı çık",
 )  
   
   
 balam = (
-"Canın Bal Əzizim 😊",
-"Azzzaar 🤦",
-"Yavaş əəəə 😳",
-"What? 😳",
-"Canın Bal ☺️",
-"Yolacam a səni bu dəqiqə 🙄",
-"Necəsən ürəyim? 🥱",
-"Aaa 🥹 bidə dedə 🥹",
-"Döyülməyin gəlub aa sənin deyən 🥺",
-)  
-  
+"Sevgilim Tatlım Sevgili 😊",
+"Azzaar 🤦",
+"Yavaşla 😳",
+"Ne? 😳",
+"Ruhumun tatlısı ☺️",
+"Seni bu dakika bırakıyorum 🙄",
+"Nasılsın canım? 🥱",
+"Aaa 🥹 bida dede 🥹",
+"Dövülme, öyle dedin 🥺",
+)    
   
 xos = (
-"Heç xoş gəlmədin 😑",
-"Xoş gəlmisən amma ged 👿", "Mənləsən əə xötəyyy?",
-"Xoş kimdi qadan alım 🥱",
-"Bizim oralarda xoş gələni döyurlər🥴",
-"Xoş gününə aşkım ❤️",
-"Haycan balam 🥲",
-"Rədd oll 🙄😒",
+"Hoş gelmiyorsun 😑",
+"Rica ederim ama git 👿", 
+"Benimle misin?",
+"Satın alınacak en iyi kadın kim 🥱"
+"Orada karşılamayı geçtiler 🥴",
+"Doğum günün kutlu olsun aşkım ❤️",
+"Heyecanlı bebeğim 🥲",
+"Reddet 🙄😒",
 )
 
 hara = (
-"Yapış divara 🤤",
-"Hara desən ora 😬",
-"Hara lazımdı ?",
-"Yanıma 🫣",
-"Sene ne hara?",
-"Cəhənnəməə",
-"Zibilliyəəə",
-"Hara Lazımdı ora ay maall",
+"Nereye dersen 😬",
+"Nerede ihtiyaç vardı?",
+"Yakınımda ol 🫣",
+"Neredesin?"
+"Cehenneme",
+"Nerede ihtiyaç vardı, ah maall",
 )
 
 gel = (
-"Gəlimdə balam 🙊",
-"Gəlsəm pis olar 😋",
-"Gəlirəm ha 😈",
-"Hara gəlim balam? 🤡",
-"Strelka at qaqaş 💪",
+"Hadi bebeğim 🙊",
+"Gelsem kötü olur 😋",
+"Geliyorum ha 😈",
+"Nereye gitmeliyim bebeğim? 🤡",
 )
 
 
 
 gordum = (
-"Elə bildim korsan 😒",
-"Görüb nağarassan xötey? 😡",
-"Haramı 🙈",
-"Görmədim özüm gostərdim 😉",
-"He məndə gördüm 😄",
-"Qələt Eədin 😁",
-"Neynim? 🤦",
+"Senin korsan olduğunu sanıyordum 😒",
+"Davulunu gördün mü? 😡",
+"Harami 🙈",
+"Görmedim, kendim görmek isterdim 😉",
+"O da beni gördü 😄",
+"Eadin'i öldür 😁",
+"Ben neyim? 🤦",
 )
   
   
@@ -318,7 +303,6 @@ taım = (
 "https://t.me/addtheme/L7HVQjC4UUyOfL9y",
 "https://t.me/addtheme/Qd4eBWTIOH4Ai3Zv",
 "https://t.me/addtheme/NightWolf",
-"https://t.me/addtheme/GreenBlack",
 "https://t.me/addtheme/TvldPzYmpG8LqkY3",
 "https://t.me/addtheme/Q4GuvNPpMvG59G6V",
 "https://t.me/addtheme/kGQaW0HHsjc7oFOv",
