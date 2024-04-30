@@ -69,28 +69,27 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 
 
 
-@Nermin.on(events.NewMessage(pattern='(?i)salam+'))
+@Nermin.on(events.NewMessage(pattern='(?i)selam+'))
+@Nermin.on(events.NewMessage(pattern='(?i)merhaba+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(salam)}")
 
-@Nermin.on(events.NewMessage(pattern='(?i)necəsən+'))
-@Nermin.on(events.NewMessage(pattern='(?i)necesen+'))
-@Nermin.on(events.NewMessage(pattern='(?i)nətərsən+'))
+@Nermin.on(events.NewMessage(pattern='(?i)nasılsın+'))
+@Nermin.on(events.NewMessage(pattern='(?i)nasılsınız+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(necesen)}")
 
-@Nermin.on(events.NewMessage(pattern='(?i)sağol+'))
+@Nermin.on(events.NewMessage(pattern='(?i)teşekkür+'))
 @Nermin.on(events.NewMessage(pattern='(?i)sagol+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(sagol)}")
 
-@Nermin.on(events.NewMessage(pattern='(?i)getdim+'))
-@Nermin.on(events.NewMessage(pattern='(?i)gedim+'))
-@Nermin.on(events.NewMessage(pattern='(?i)gedirəm+'))
+@Nermin.on(events.NewMessage(pattern='(?i)gitdim+'))
+@Nermin.on(events.NewMessage(pattern='(?i)gidiyorum+'))
+@Nermin.on(events.NewMessage(pattern='(?i)bb+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(getdim)}")
 
-@Nermin.on(events.NewMessage(pattern='(?i)gəldim+'))
 @Nermin.on(events.NewMessage(pattern='(?i)geldim+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(geldim)}")
@@ -132,74 +131,58 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(emoji2)}")
 
-@Nermin.on(events.NewMessage(pattern='(?i)xaos+'))
+@Nermin.on(events.NewMessage(pattern='(?i)federasyon+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(fed)}")
  
+@Nermin.on(events.NewMessage(pattern='(?i)neden+'))
 @Nermin.on(events.NewMessage(pattern='(?i)niye+'))
-@Nermin.on(events.NewMessage(pattern='(?i)nıye+'))
-@Nermin.on(events.NewMessage(pattern='(?i)niyə+'))
-@Nermin.on(events.NewMessage(pattern='(?i)nıyə+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(niye)}")
 
     
 @Nermin.on(events.NewMessage(pattern='(?i)ne+'))
-@Nermin.on(events.NewMessage(pattern='(?i)nə+'))
+@Nermin.on(events.NewMessage(pattern='(?i)nasıl+'))
 @Nermin.on(events.NewMessage(pattern='(?i)what+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(ne)}")
    
-@Nermin.on(events.NewMessage(pattern='(?i)hay+'))
-@Nermin.on(events.NewMessage(pattern='(?i)hiy+'))
-@Nermin.on(events.NewMessage(pattern='(?i)hııy+'))
+@Nermin.on(events.NewMessage(pattern='(?i)hey+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(hay)}")
     
 @Nermin.on(events.NewMessage(pattern='(?i)mal+'))
 @Nermin.on(events.NewMessage(pattern='(?i)maal+'))
-@Nermin.on(events.NewMessage(pattern='(?i)qoyun+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(mal)}")
     
     
+@Nermin.on(events.NewMessage(pattern='(?i)canım+'))
 @Nermin.on(events.NewMessage(pattern='(?i)can+'))
-@Nermin.on(events.NewMessage(pattern='(?i)haycan+'))
-@Nermin.on(events.NewMessage(pattern='(?i)uşş+'))
-@Nermin.on(events.NewMessage(pattern='(?i)uss+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(can)}")
     
     
-@Nermin.on(events.NewMessage(pattern='(?i)balam+'))
-@Nermin.on(events.NewMessage(pattern='(?i)quzum+'))
+@Nermin.on(events.NewMessage(pattern='(?i)kuzum+'))
+@Nermin.on(events.NewMessage(pattern='(?i)canım+'))
 @Nermin.on(events.NewMessage(pattern='(?i)❤+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(balam)}")
    
-@Nermin.on(events.NewMessage(pattern='(?i)xoş+'))
-@Nermin.on(events.NewMessage(pattern='(?i)xos+'))
-@Nermin.on(events.NewMessage(pattern='(?i)gününə+'))
-@Nermin.on(events.NewMessage(pattern='(?i)gününe+'))
-@Nermin.on(events.NewMessage(pattern='(?i)gunune+'))
+@Nermin.on(events.NewMessage(pattern='(?i)hoş+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(xos)}")
      
-@Nermin.on(events.NewMessage(pattern='(?i)hara+'))
-@Nermin.on(events.NewMessage(pattern='(?i)havaq+'))
-@Nermin.on(events.NewMessage(pattern='(?i)hansı+'))
+@Nermin.on(events.NewMessage(pattern='(?i)nereye+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(hara)}")
     
 @Nermin.on(events.NewMessage(pattern='(?i)gel+'))
-@Nermin.on(events.NewMessage(pattern='(?i)gəl+'))
-@Nermin.on(events.NewMessage(pattern='(?i)gelde+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(gel)}")
     
-@Nermin.on(events.NewMessage(pattern='(?i)gordum+'))
 @Nermin.on(events.NewMessage(pattern='(?i)gördüm+'))
-@Nermin.on(events.NewMessage(pattern='(?i)gördün+'))
+@Nermin.on(events.NewMessage(pattern='(?i)gördünmü+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(gordum)}")
          
