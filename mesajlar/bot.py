@@ -8,21 +8,21 @@
 # GitHub: aykhan026
 
 yeni_user = (
-"Xoş Gəldin Balam 😍",
-"Səni gözləməydən gözüm qaralıbe gəl çıxdaa",
-"Xoşsann Ürəyimm ❤️",
+"Hoşgeldin bebeğim 😍",
+"Seni beklemekten gözlerim karardı",
+"Hoş geldin kalbim ❤️",
 )
 
 start = (
-"👋 Salam Xoş Gördük.\n✅ Mən Nəzrin Rəsmi Söhbət Botuyam\nℹ Bot Barədə tam Məlumat Almaq Üçün /info  Yazın",
+"👋 Merhaba ve Hoş Geldiniz.\n Ben Nezrin Resmi Sohbet Botuyum\nℹ Bot hakkında tam bilgi almak için /info yazın",
 )
 
 info = (
-"☑ Mən Nəzrin Rəsmi Söhbət Botuyam\n\nℹ Botumuz Haqda Qısa Məlumat\n⚡ Nəzrin Sıradan Söhbət Və Avto Cavablayıcı Botudur. Bu Botun Əsas Özəlliyi Qruplarda Mesaj Sayın Çoxaltmaq , Vaxdınızı Əyləncəli Keçirmək Dir. Nəzrin Botu qruplarınlza Alaraq Vaxdınızı Əyləncəli Və Səmərəli Keçirə Bilərsiz.\n\n\n\n➕[❰ QRUPA ƏLAVƏ ET ❱➕](https://t.me/NezrinChatBot?startgroup=true)\n\n\n\n**👨‍💻 OWNER 🇬🇪** [Süleymanov Tural](https://t.me/suleymanovt01)",
-)
+"☑ Ben Nezrin Resmi Sohbet Botuyum\n\nℹ Botumuz Hakkında Kısa Bilgi\n⚡ Nazrin'in Düzenli Sohbet ve Otomatik Yanıtlayıcı Botu. Bu botun temel özelliği gruplardaki mesaj sayısını artırmak ve eğlenmektir. Nezrin Bot'u gruplarınıza ekleyerek zamanınızı eğlenceli ve verimli bir şekilde geçirebilirsiniz.\n\n\n\n➕[❰ GRUP'A EKLE ❱➕](https://t.me/NezrinChatBot?startgroup=true )\n\n\n\ n**👨‍💻 SAHİBİ 🇬🇪** [Süleymanov Tural](https://t.me/suleymanovt01)",
+  )
 
 oyun = (
-"Nəzrin CHAT BOT un daxilindəki oyunlar 🎮\n\n/zer - ZƏR ATAR 🎲\n/btop - BASKETBOL TOPU ATAR 🏀\n/ftop - FUTBOL TOPU ATAR ⚽️\n/ox - OX ATAR 🎯\n/boling - BOLİNG TOPU ATAR 🎳\n/carx - TƏSADÜFİ ÇARX ÇEVİRƏR 🎰"
+"Nezrin CHAT BOT 🎮\n\n/zer - ZAR AT 🎲\n/btop - BASKETBOL AT 🏀\n/ftop - FUTBOL AT ⚽️\n/ox - OK AT 🎯\n/boling - BOWLING TOPU ATAR 🎳\ n/carx - RASTGELE ÇARK DÖNÜYOR 🎰""
 )
   
 
@@ -44,5 +44,3 @@ carx = (
 bol = (
 "🎳"
 )
-
-
