@@ -18,7 +18,7 @@ start = (
 )
 
 info = (
-"☑ Ben Esila Resmi Sohbet Botuyum\n\nℹ Botumuz Hakkında Kısa Bilgi\n⚡ Esila Düzenli Sohbet ve Otomatik Yanıtlayıcı Botu. Bu botun temel özelliği gruplardaki mesaj sayısını artırmak ve eğlenmektir. Esila Botu gruplarınıza ekleyerek zamanınızı eğlenceli ve verimli bir şekilde geçirebilirsiniz.\n\n\n\n➕[❰ GRUP'A EKLE ❱➕](https://t.me/esilaabot?startgroup=true)\n\n\n\n**👨‍💻 SAHİBİ 🇦🇿** [ᏆɛşᏦɨʟǟᏆ](https://t.me/thagiyev)",
+"☑ Ben Esila Resmi Sohbet Botuyum\n\nℹ Botumuz Hakkında Kısa Bilgi\n⚡ Esila Düzenli Sohbet ve Otomatik Yanıtlayıcı Botu. Bu botun temel özelliği gruplardaki mesaj sayısını artırmak ve eğlenmektir. Esila Botu gruplarınıza ekleyerek zamanınızı eğlenceli ve verimli bir şekilde geçirebilirsiniz.\n\n\n\n➕[❰ GRUP'A EKLE ❱➕](https://t.me/esilaabot?startgroup=true)\n\n\n\n**👨‍💻 SAHİBİ 🇦🇿** [ᏆɛşᏦɨʟǟᏆ](https://t.me/debubluman)",
   )
 
 oyun = (
