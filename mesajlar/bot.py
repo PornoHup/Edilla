@@ -14,7 +14,7 @@ yeni_user = (
 )
 
 start = (
-"👋 Merhaba ve Hoş Geldiniz.\n Ben Nezrin Resmi Sohbet Botuyum\nℹ Bot hakkında tam bilgi almak için /info yazın",
+"👋 Merhaba ve Hoş Geldiniz.\nBen Nezrin Resmi Sohbet Botuyum\nℹ Bot hakkında tam bilgi almak için /info yazın",
 )
 
 info = (
