@@ -13,8 +13,8 @@ from telethon import TelegramClient
 # Config məlumatları
 
 # Telegram Client (Telethon)
-API_ID = "12349641"
-API_HASH = "0f9159afc920f9c592df555e4b1cb73b"
+API_ID = "24911320"
+API_HASH = "e64761845fd101d223555dae92852c24"
 bot_token = "6456262286:AAGSc4U6XTuwvxSFeMMOzxaj_KkyG9Fva88"
 
 # Nermin
