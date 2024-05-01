@@ -22,7 +22,7 @@ info = (
   )
 
 oyun = (
-"Nezrin CHAT BOT 🎮\n\n/zer - ZAR AT 🎲\n/btop - BASKETBOL AT 🏀\n/ftop - FUTBOL AT ⚽️\n/ox - OK AT 🎯\n/boling - BOWLING TOPU ATAR 🎳\ n/carx - RASTGELE ÇARK DÖNÜYOR 🎰"",
+"Nezrin CHAT BOT 🎮\n\n/zer - ZAR AT 🎲\n/btop - BASKETBOL AT 🏀\n/ftop - FUTBOL AT ⚽️\n/ox - OK AT 🎯\n/boling - BOWLING TOPU ATAR 🎳\ n/carx - RASTGELE ÇARK DÖNÜYOR 🎰",
 )
   
 
