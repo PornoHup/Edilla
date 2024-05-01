@@ -18,11 +18,11 @@ start = (
 )
 
 info = (
-"☑ Ben Nezrin Resmi Sohbet Botuyum\n\nℹ Botumuz Hakkında Kısa Bilgi\n⚡ Nezrin Düzenli Sohbet ve Otomatik Yanıtlayıcı Botu. Bu botun temel özelliği gruplardaki mesaj sayısını artırmak ve eğlenmektir. Nezrin Botu gruplarınıza ekleyerek zamanınızı eğlenceli ve verimli bir şekilde geçirebilirsiniz.\n\n\n\n➕[❰ GRUP'A EKLE ❱➕](https://t.me/NezrinChatBot?startgroup=true)\n\n\n\n**👨‍💻 SAHİBİ 🇬🇪** [Süleymanov Tural](https://t.me/suleymanovt01)",
+"☑ Ben Esilla Resmi Sohbet Botuyum\n\nℹ Botumuz Hakkında Kısa Bilgi\n⚡ Nezrin Düzenli Sohbet ve Otomatik Yanıtlayıcı Botu. Bu botun temel özelliği gruplardaki mesaj sayısını artırmak ve eğlenmektir. Nezrin Botu gruplarınıza ekleyerek zamanınızı eğlenceli ve verimli bir şekilde geçirebilirsiniz.\n\n\n\n➕[❰ GRUP'A EKLE ❱➕](https://t.me/NezrinChatBot?startgroup=true)\n\n\n\n**👨‍💻 SAHİBİ 🇦🇿** [ᏆɛşᏦɨʟǟᏆ](https://t.me/debubluman)",
   )
 
 oyun = (
-"Nezrin CHAT BOT 🎮\n\n/zer - ZAR AT 🎲\n/btop - BASKETBOL AT 🏀\n/ftop - FUTBOL AT ⚽️\n/ox - OK AT 🎯\n/boling - BOWLING TOPU ATAR 🎳\n/carx - RASTGELE ÇARK DÖNÜYOR 🎰",
+"Esilla CHAT BOT 🎮\n\n/zer - ZAR AT 🎲\n/btop - BASKETBOL AT 🏀\n/ftop - FUTBOL AT ⚽️\n/ox - OK AT 🎯\n/boling - BOWLING TOPU ATAR 🎳\n/carx - RASTGELE ÇARK DÖNÜYOR 🎰",
 )
   
 
