@@ -8,12 +8,12 @@
 # GitHub: aykhan026
 
 salam = (
-"Merhaba"
+"Merhaba",
 "Merhaba Adam",
 "Merhaba Bayan Moon",
 "Merhaba Bebek",
 "Merhabaa",
-"Hey bebeğim merhaba"
+"Hey bebeğim merhaba",
 "Merhaba Bey 🫶",
 "Merhaba Nefess",
 )
@@ -24,9 +24,9 @@ necesen = (
 "Doktor musunuz?",
 "Ah yani 😂",
 "Ne",
-"Sen benim aşkım mısın?"
-"iyi olmaya çalışıyorum"
-"Başımı bıraktım, nasılsın 😂"
+"Sen benim aşkım mısın?",
+"iyi olmaya çalışıyorum",
+"Başımı bıraktım, nasılsın 😂",
 )
 
 
@@ -56,7 +56,7 @@ getdim = (
 geldim = (
 "Hoş geldiniz ❤️",
 "Hoş geldiniz Nefessss",
-"Ben neyim?"
+"Ben neyim?",
 "Serek kırmızı halıda mı?",  
 )
 
@@ -64,7 +64,7 @@ riyad = (
 "Haycannn aşkım ❤",
 "Haycannn, senin için kuzu kesme 🙊",
 "Evet 🫶",
-"Ne söyleyeceksen hemen söyle"
+"Ne söyleyeceksen hemen söyle",
 "O Benim Kalbimdi ❤",
 "Ne var Aaa, ne istiyorsun? 😑",
 "Azzzaarrr 😬😬",
@@ -77,7 +77,7 @@ riyad = (
 "Grubun gözü 😝",
 "Bana yatmam için bir şans ver 🥱🥱",
 "Elini Farahat Alaa'ya koy 😒",
-"Durmak"
+"Durmak",
 "ne? 🙄",
 )
 
@@ -85,7 +85,7 @@ yeraz = (
 "Haycannn aşkım ❤",
 "Haycannn, senin için kuzu kesme 🙊",
 "Evet 🫶",
-"Ne söyleyeceksen hemen söyle"
+"Ne söyleyeceksen hemen söyle",
 "O Benim Kalbimdi ❤",
 "Ne var Aaa, ne istiyorsun? 😑",
 "Azzzaarrr 😬😬",
@@ -165,7 +165,7 @@ sura = (
 ban = (
 "Vahşi",
 "Hepsi Vahşi",
-"Vahşi Panter, kimi yasakladın?"
+"Vahşi Panter, kimi yasakladın?",
 "Havada yasak kokusu var",
 )
 
@@ -260,7 +260,7 @@ xos = (
 "Hoş gelmiyorsun 😑",
 "Rica ederim ama git 👿", 
 "Benimle misin?",
-"Satın alınacak en iyi kadın kim 🥱"
+"Satın alınacak en iyi kadın kim 🥱",
 "Orada karşılamayı geçtiler 🥴",
 "Doğum günün kutlu olsun aşkım ❤️",
 "Heyecanlı bebeğim 🥲",
